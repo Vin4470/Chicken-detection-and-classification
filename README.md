@@ -1,1 +1,1 @@
-# Chicken-detection-and-classification
+# Chickendisease-detection-and-classification
